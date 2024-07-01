@@ -1,0 +1,9 @@
+pip>=23.0.0
+transformers
+gradio
+Pillow
+matplotlib
+torch
+timm
+einops
+spaces
